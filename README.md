@@ -1,16 +1,28 @@
 # TubesPBO_Kalkuleta
 Tugas Besar Pemrograman Berorientasi Objek - Kalkuleta (Kalkulator BMI, Konversi Bilangan, dan Konversi Mata Uang)
 
+Mata Kuliah: Pemrograman Berorientasi Objek
+
+Kelas: S1IF - 07 - K
+
 Kelompok: Sefruit Cerita
 
-Anggota:
-- Dhamara Alan C (19102139)
-- Yusi Rahmawati (19102298)
-- Sophia Deo Sandeva (19102300)
-- Fauzan Taqiyuddin (19102103)
-- Muhammad Iqbal Ainu Rafie (19102159)
+Anggota Kelompok:
+- Dhamara Alan C (Project Manager | 19102139)
+- Yusi Rahmawati (Analyst | 19102298)
+- Sophia Deo Sandeva (Designer | 19102300)
+- Fauzan Taqiyuddin (Programmer 1 | 19102103)
+- Muhammad Iqbal Ainu Rafie (Programmer 2 | 19102159)
 
-Kalkuleta merupakan aplikasi yang berfungsi untuk melakukan operasi penghitungan BMI, konversi bilangan (Biner, Desimal, Oktal, dan Heksadesimal), serta konversi mata uang (Rupiah, Dollar, Euro, Pound, Yen, Won, dan Ringgit). Tujuan dibuatnya aplikasi ini adalah untuk mempermudah melakukan penghitungan BMI, konversi bilangan, serta konversi mata uang.
+Kalkuleta merupakan aplikasi yang memiliki 3 menu, yaitu menu kalkulator BMI, konversi bilangan, dan konversi mata uang. 
+
+Menu kalkulator BMI berfungsi untuk melakukan operasi penghitungan BMI dengan memasukkan umur, tinggi badan, dan berat bedan sehingga nantinya akan memunculkan output berupa hasil penghitungan BMI beserta kategori berat bedan dari pengguna. 
+
+Menu konversi bilangan berfungsi untuk melakukan konversi bilangan dari dan menuju seluruh jenis bilangan (Biner, Desimal, Oktal, dan Heksadesimal), pengguna dapat memilih jenis bilangan dan melakukan input bilangan yang akan dikonversikan sehingga nantinya akan memunculkan output berupa hasil konversi bilangan dari yang diinput-kan oleh pengguna. 
+
+Menu konversi mata uang berfungsi untuk melakukan operasi konversi mata uang dari Rupiah ke mata uang lain. Pengguna dapat memasukkan nominal Rupiah yang akan dikonversikan dan memilih jenis mata uang untuk dilakukan konversi (Dollar, Euro, Pound, Yen, Won, dan Ringgit). Output dari menu ini adalah hasil konversi mata uang Rupiah ke mata uang lain. 
+
+Tujuan dibuatnya aplikasi ini adalah untuk mempermudah pengguna dalam melakukan penghitungan BMI, konversi bilangan, serta konversi mata uang Rupiah ke mata uang lain.
 
 Screenshot Program:
 
@@ -28,7 +40,9 @@ Screenshot Program:
 
 - Tampilan Menu Konversi Bilangan
 
-![image](https://user-images.githubusercontent.com/83047929/128619244-0e845a09-1960-412e-8d96-7fd6c79ae386.png)
+![image](https://user-images.githubusercontent.com/83047929/128621492-f611d085-759e-4630-af57-30d88630debd.png)
+
+![Screenshot (1803)](https://user-images.githubusercontent.com/83047929/128621565-c1387858-39e3-45e7-a546-6b654619b72d.png)
 
 - Tampilan Hasil Konversi Bilangan
 
@@ -37,6 +51,8 @@ Screenshot Program:
 - Tampilan Menu Konversi Mata Uang
 
 ![image](https://user-images.githubusercontent.com/83047929/128619268-a4139aca-bccf-4b0d-97f8-e7bba6a17855.png)
+
+![Screenshot (1804)](https://user-images.githubusercontent.com/83047929/128621580-fb40c6b6-d77e-467b-9a68-9c381e55c5d0.png)
 
 - Tampilan Hasil Konversi Mata Uang
 
